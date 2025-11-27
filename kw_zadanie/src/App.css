@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  align-items: center;
+}
+h1{
+  color: darkred;
+}
+h2{
+  color: red;
+}
+h3{
+  color: purple;
+  text-decoration: underline;
+}
+h4{
+  color:darkblue;
+}
+h5{
+  color: darkgreen;
+}
+h6{
+  color: blue;
+}
